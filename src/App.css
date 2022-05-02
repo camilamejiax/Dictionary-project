@@ -14,13 +14,16 @@
 
 .App-footer {
   text-align: center;
-  margin: 30opx 0;
+  margin: 30px 30px;
+  color: rgb(241, 0, 40);
+  font-weight: bold;
+  text-transform: uppercase;
 }
 
 body {
-  background: #f9f8fe;
+  background: #fee5f2;
 }
 
 a {
-  color: #967;
+  color: rgb(235, 64, 121);
 }
